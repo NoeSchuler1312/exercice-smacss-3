@@ -20,3 +20,13 @@
 .card-img {
   width: 1000px;
 }
+
+.card-4 {
+  margin-bottom: 30px;
+}
+
+@media (min-width: 992px) {
+  .card-4 {
+    margin-bottom: 0;
+  }
+}
