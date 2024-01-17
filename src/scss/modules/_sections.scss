@@ -5,13 +5,19 @@
 }
 
 .sections-box {
-  padding: 10px 0 11px;
+  padding: 10px 0;
+  position: relative;
+  bottom: 40px;
 }
 
-.sections-box:first-child {
+.sections-box-fish {
   background-color: var(--green-color);
+  margin: 0 -12px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
 }
 
-.sections-box:last-child {
+.sections-box-amphibian {
   background-color: var(--blue-color);
+  margin: 0 -12px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
 }

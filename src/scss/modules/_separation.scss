@@ -1,0 +1,12 @@
+.separation-main {
+  background-color: var(--orange-color);
+  height: 40px;
+  flex-shrink: 0;
+  position: static;
+}
+
+.separation-footer {
+  background-color: var(--orange-color);
+  height: 10px;
+  flex-shrink: 0;
+}

@@ -1,8 +1,11 @@
 .l-header {
   background-image: url(../img/sumidero_canyon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: var(--white-color);
 }
 
 .l-main {
   background-image: url(../img/pattern.jpg);
+  padding: 0 0 78px 0;
 }
