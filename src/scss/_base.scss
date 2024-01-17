@@ -37,3 +37,13 @@ video {
   block-size: auto;
   vertical-align: middle;
 }
+
+li {
+  list-style: none;
+  line-height: 20px;
+}
+
+h2 {
+  text-transform: uppercase;
+  color: var(--white-color);
+}

@@ -1,0 +1,17 @@
+.sections-title {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.sections-box {
+  padding: 10px 0 11px;
+}
+
+.sections-box:first-child {
+  background-color: var(--green-color);
+}
+
+.sections-box:last-child {
+  background-color: var(--blue-color);
+}
